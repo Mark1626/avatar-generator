@@ -1,6 +1,8 @@
 # Avatar Generator
 
-Ever wanted to create a icons for your project without using the default given by your framework?? 
+Ever wanted to create a icons for your project without using the default given by your framework??
+
+![Example](./demo.png)
 
 Generates an avatar which can be exported as png for further use
 
@@ -9,4 +11,3 @@ Generates an avatar which can be exported as png for further use
 - Be able to customize pattern
 - Pre feed colors
 - Choose export size
-- Update README with screenshot
