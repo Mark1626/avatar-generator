@@ -1,0 +1,9 @@
+canvas {
+  display: block;
+  margin: auto;
+  border: 3px solid black;
+}
+
+button {
+  width: 100px;
+}
